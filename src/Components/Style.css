@@ -1,0 +1,51 @@
+body {
+    font-family: "HelveticaNeue-UltraLight", "Helvetica Neue UltraLight",
+      "Helvetica Neueu", Helvetica, Arial, sans-serif;
+    margin: 0;
+    background-color: #efeff5;
+  }
+  
+.stopwatchs {
+    text-align: center;
+}
+.stopwatch-timer1{
+    font-size: 96px;
+    font-weight: 100;
+    line-height: 155px;
+  
+    margin: 0;
+  
+    border: solid brown 1px;
+    border-width: 2px 0;
+    background-color: white;
+  }
+  
+  
+  
+.btn {
+    font-family: inherit;
+    font-size: 20px;
+  
+    display: inline-block;
+  
+    width: 100px;
+    height: 100px;
+    margin: 24px;
+    padding: 0;
+  
+    cursor: pointer;
+    letter-spacing: 1px;
+  
+    border: 0;
+    border-radius: 50%;
+    outline: none;
+    background: white;
+  }
+  
+.start-btn {
+    color: blue;
+  }
+.stop-btn {
+    color: #fd3d2a;
+  }
+  
